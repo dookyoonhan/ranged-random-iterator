@@ -1,0 +1,35 @@
+{
+  "name": "ranged-random-iterator",
+  "version": "1.0.1",
+  "description": "devide a list into multiple groups and iterates values in the list in random order within the group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookyoonhan/ranged-random-iterator"
+  },
+  "keywords": [
+    "node",
+    "iterate",
+    "iterator",
+    "random",
+    "ranged",
+    "waterfall",
+    "floppy"
+  ],
+  "author": "D.K Han <dkhan@networkdefines.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dookyoonhan/ranged-random-iterator/issues"
+  },
+  "homepage": "http://floppy.network",
+  "devDependencies": {
+    "mocha": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
